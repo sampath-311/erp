@@ -1,0 +1,11 @@
+customer_id,customer_name,email,phone_number,address,city,country,loyalty_program,account_creation_date,total_spent
+C011,Customer 11,customer11@example.com,555-0011,"11 Elm Street, City",City,USA,False,2024-06-23,1236.6
+C012,Customer 12,customer12@example.com,555-0012,"12 Elm Street, City",City,USA,False,2024-06-02,2004.39
+C013,Customer 13,customer13@example.com,555-0013,"13 Elm Street, City",City,USA,False,2024-11-13,1893.26
+C014,Customer 14,customer14@example.com,555-0014,"14 Elm Street, City",City,USA,False,2024-06-30,902.76
+C015,Customer 15,customer15@example.com,555-0015,"15 Elm Street, City",City,USA,False,2024-09-09,3092.26
+C016,Customer 16,customer16@example.com,555-0016,"16 Elm Street, City",City,USA,False,2024-06-26,2304.41
+C017,Customer 17,customer17@example.com,555-0017,"17 Elm Street, City",City,USA,True,2024-04-07,742.03
+C018,Customer 18,customer18@example.com,555-0018,"18 Elm Street, City",City,USA,True,2024-03-18,2301.76
+C019,Customer 19,customer19@example.com,555-0019,"19 Elm Street, City",City,USA,True,2024-06-24,144.07
+C020,Customer 20,customer20@example.com,555-0020,"20 Elm Street, City",City,USA,True,2024-03-22,3291.14

@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,status,total_amount,payment_method,shipping_address,order_priority,payment_status,discount_applied,product_id
+O1251,C009,2025-01-30 02:25:06,Cancelled,142.09,Bank Transfer,"1 Maple Ave, City",Low,Pending,20.41,P1004
+O1252,C004,2025-02-07 02:25:06,Delivered,402.36,Bank Transfer,"2 Maple Ave, City",High,Failed,11.52,P1008
+O1253,C003,2025-02-20 02:25:06,Cancelled,234.93,PayPal,"3 Maple Ave, City",High,Failed,8.13,P1005
+O1254,C007,2025-02-04 02:25:06,Pending,383.95,PayPal,"4 Maple Ave, City",High,Failed,2.54,P1009
+O1255,C008,2025-02-02 02:25:06,Pending,934.65,Credit Card,"5 Maple Ave, City",Normal,Failed,27.69,P1009
+O1256,C006,2025-02-18 02:25:06,Delivered,636.51,Bank Transfer,"6 Maple Ave, City",Normal,Pending,17.91,P1003
+O1257,C004,2025-02-14 02:25:06,Cancelled,634.25,PayPal,"7 Maple Ave, City",Low,Failed,25.75,P1004
+O1258,C007,2025-01-29 02:25:06,Pending,811.81,Credit Card,"8 Maple Ave, City",Normal,Pending,0.23,P1006
+O1259,C006,2025-01-29 02:25:06,Shipped,225.19,Credit Card,"9 Maple Ave, City",Low,Completed,22.57,P1007
+O1260,C008,2025-01-27 02:25:06,Shipped,274.19,Bank Transfer,"10 Maple Ave, City",High,Pending,3.67,P1007
