@@ -1,0 +1,11 @@
+customer_id,customer_name,email,phone_number,address,city,country,loyalty_program,account_creation_date,total_spent
+C001,John Doe,john.doe@example.com,555-1234,123 Main St,NY,USA,True,2020-06-15,1250.0
+C002,Jane Smith,jane.smith@example.com,555-2345,456 Oak Ave,CA,USA,False,2021-03-22,850.0
+C003,Jim Brown,jim.brown@example.com,555-3456,789 Pine Rd,TX,USA,True,2019-09-10,1500.0
+C004,Emma Davis,emma.davis@example.com,555-4567,102 Elm St,FL,USA,False,2022-07-18,600.0
+C005,Olivia Johnson,olivia.johnson@example.com,555-5678,345 Birch Rd,CA,USA,True,2020-02-02,1100.0
+C006,Liam Williams,liam.williams@example.com,555-6789,567 Cedar Ln,OH,USA,False,2021-10-01,400.0
+C007,Sophia Martinez,sophia.martinez@example.com,555-7890,678 Maple Ave,FL,USA,True,2020-12-05,1700.0
+C008,Lucas Garcia,lucas.garcia@example.com,555-8901,789 Birch Rd,NY,USA,False,2021-06-30,500.0
+C009,Mia Rodriguez,mia.rodriguez@example.com,555-9012,123 Spruce St,TX,USA,True,2022-01-20,800.0
+C010,Amelia Wilson,amelia.wilson@example.com,555-0123,234 Pine Ln,IL,USA,False,2022-11-10,300.0
