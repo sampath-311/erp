@@ -1,1 +1,4 @@
-file_name,records_count,number_of_columnsorders.csv,20,10inventory.csv,250,10customers.csv,10,10
+file_name,records_count,number_of_columns
+orders.csv,20,10
+inventory.csv,250,11
+customers.csv,10,10
