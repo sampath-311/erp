@@ -1,0 +1,3 @@
+product_id,product_name,stock_quantity,price,supplier_id,category,reorder_level,warehouse_location,last_restocked_date,product_status
+P1011,earbubs,30,300.0,S011,Accessories,5,B2,2025-02-27,active
+P1012,Tablet,40,200.0,S012,Electronics,8,C3,2025-02-27,active
