@@ -2,6 +2,6 @@ customer_id,customer_name,email,phone_number,address,city,country,loyalty_progra
 C001,John Doe,john.doe@example.com,555-1234,565 Richmond St,AA,USA,True,2020-06-15,1750.0
 C003,Jim Brown,jim.brown@example.com,555-3456,444 Church Rd,BB,USA,True,2019-09-10,2000.0
 C005,Olivia Johnson,olivia.johnson@example.com,555-5678,123 Sam Rd,CC,USA,True,2020-02-02,2500.0
-C021,Jane Holder,jane.holder@example.com,555-236,500 Oak Ave,TX,USA,False,2024-03-22,850.0
-C022,Emma Chik,emma.chik@example.com,555-4568,103 Elm St,NY,USA,False,2024-07-18,600.0
-C023,Lucas Grace,lucas.grace@example.com,555-8902,789 Birch Rd,XX,USA,False,2024-06-30,500.0
+C011,Jane Holder,jane.holder@example.com,555-236,500 Oak Ave,TX,USA,False,2024-03-22,850.0
+C012,Emma Chik,emma.chik@example.com,555-4568,103 Elm St,NY,USA,False,2024-07-18,600.0
+C013,Lucas Grace,lucas.grace@example.com,555-8902,789 Birch Rd,XX,USA,False,2024-06-30,500.0
