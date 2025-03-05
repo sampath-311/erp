@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,status,total_amount,payment_method,shipping_address,order_priority,payment_status,discount_applied,product_id
+O1001,C007,2024-06-17 04:53:00,shipped,45.0,credit card,678 Maple Ave,high,completed,5.0,P1004
+O1004,C005,2024-12-05 07:28:00,shipped,875.0,bank transfer,345 Birch Rd,low,completed,25.0,P1005
+O1008,C005,2024-09-18 01:29:00,shipped,440.0,PayPal,345 Birch Rd,high,completed,10.0,P1004
+O1009,C002,2025-01-02 00:16:00,shipped,145.0,credit card,456 Oak Ave,normal,completed,15.0,P1004
+O1012,C005,2024-06-20 01:02:00,shipped,70.0,credit card,345 Birch Rd,low,completed,5.0,P1007
+O1013,C006,2024-09-13 14:03:00,shipped,1185.0,bank transfer,567 Cedar Ln,high,completed,15.0,P1006
+O1018,C009,2024-07-05 07:49:00,shipped,55.0,bank transfer,123 Spruce St,normal,completed,20.0,P1003
+O1022,C007,2024-12-31 04:20:00,shipped,100.0,PayPal,678 Maple Ave,normal,completed,0.0,P1007
+O1025,C003,2024-04-27 02:10:00,shipped,290.0,bank transfer,789 Pine Rd,normal,completed,10.0,P1003
+O1027,C001,2024-01-15 00:14:00,shipped,230.0,PayPal,123 Main St,low,completed,20.0,P1007
+O1251,C004,2024-09-17 05:04:00,pending,120.0,bank transfer,101 Elm St,low,pending,0.0,P1001
+O1252,C001,2025-02-03 12:41:00,canceled,65.0,credit card,122 Main St,normal,pending,15.0,P1006
+O1253,C010,2024-06-15 23:16:00,pending,595.0,bank transfer,233 Pine Ln,normal,pending,5.0,P1008
+O1254,C007,2024-05-01 11:00:00,pending,50.0,credit card,677 Maple Ave,normal,pending,10.0,P1008
+O1255,C003,2024-03-15 00:27:00,pending,585.0,bank transfer,788 Pine Rd,low,pending,15.0,P1009
