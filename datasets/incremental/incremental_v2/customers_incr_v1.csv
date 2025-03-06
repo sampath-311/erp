@@ -1,0 +1,4 @@
+customer_id,customer_name,email,phone_number,address,city,country,loyalty_program,account_creation_date,total_spent
+C014,Jane Hous,jane.house@example.com,555-236,500 Oak Ave,TX,USA,False,2024-03-22,850.0
+C015,Emma Beth,emma.beth@example.com,555-4568,103 Elm St,NY,USA,False,2024-07-18,600.0
+C016,Lucas Rome,lucas.rome@example.com,555-8902,789 Birch Rd,XX,USA,False,2024-06-30,500.0

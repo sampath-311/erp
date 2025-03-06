@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,status,total_amount,payment_method,shipping_address,order_priority,payment_status,discount_applied,product_id
+O1256,C011,2024-06-17 04:53:00,pending,45.0,credit card,1010 Maple Ave,high,pending,5.0,P1004
+O1257,C012,2024-12-05 07:28:00,shipped,875.0,bank transfer,1009 Birch Rd,low,completed,25.0,P1005
+O1258,C013,2024-09-18 01:29:00,shipped,440.0,PayPal,1008 Birch Rd,high,completed,10.0,P1004
+O1259,C014,2025-01-02 00:16:00,shipped,145.0,credit card,1007 Oak Ave,normal,completed,15.0,P1004
+O1260,C015,2024-06-20 01:02:00,pending,70.0,credit card,1006 Birch Rd,low,pending,5.0,P1007
+O1261,C016,2024-09-13 14:03:00,shipped,1185.0,bank transfer,1005 Cedar Ln,high,completed,15.0,P1006
+O1262,C011,2024-07-05 07:49:00,shipped,55.0,bank transfer,1004 Spruce St,normal,completed,20.0,P1003
+O1263,C013,2024-12-31 04:20:00,shipped,100.0,PayPal,1003 Maple Ave,normal,completed,0.0,P1007
+O1264,C015,2024-04-27 02:10:00,shipped,290.0,bank transfer,1002 Pine Rd,normal,completed,10.0,P1003
+O1265,C012,2024-01-15 00:14:00,shipped,230.0,PayPal,1001 Main St,low,completed,20.0,P1007
